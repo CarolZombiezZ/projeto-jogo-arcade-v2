@@ -1,6 +1,24 @@
-# projeto-jogo-arcade
- Trabalho de conclusão de curso feito no Senac Santana.
- Projeto feito com intuito educacional para aprendermos uma linguagem nova(javascript) e aprimorarmos o que ja foi estudado.
- O arquivo foi feito utilizando HTML, CSS, JAVASCRIPT E PHP e as artes usando PHOTOSHOP.
- O banco nao esta 100% funcional, mas para o arquivo funcionar é so baixar o arquivo da pasta (banco de dados)
- O jogo foi desenvolvido por 5 pessoas, e é um jogo arcade 2d feito usando pixels.
+Ajustes realizados com o Gemini após 2 anos da finalização do projeto
+
+Para rodar o arquivo corretamente, será necessário utilizar o ambiente local do XAMPP, já que o projeto utiliza arquivos PHP e integração com servidor local.
+
+Passo a passo para instalação e execução:
+
+1.Instalação do Ambiente:
+
+Certifique-se de ter o XAMPP instalado em sua máquina.
+Abra o XAMPP Control Panel e inicie os módulos Apache e MySQL.
+
+2.Localização da Pasta:
+Baixe ou clone este repositório.
+Mova a pasta do projeto para dentro do diretório padrão do XAMPP: C:\xampp\htdocs\.
+Certifique-se de que o nome da pasta seja exatamente jogo_arcade.
+
+3.Configuração do Banco de Dados:
+Acesse http://localhost/phpmyadmin/.
+Crie um banco de dados com o nome bdprojetofs.
+Importe o arquivo .sql que está dentro da pasta banco de dados.
+
+4.Como Jogar:
+Abra o seu navegador de preferência.
+Para acessar via web, use a URL: http://localhost/jogo_arcade/menu.html
