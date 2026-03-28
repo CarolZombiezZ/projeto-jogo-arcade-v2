@@ -7,6 +7,7 @@ Passo a passo para instalação e execução:
 1.Instalação do Ambiente:
 
 Certifique-se de ter o XAMPP instalado em sua máquina.
+
 Abra o XAMPP Control Panel e inicie os módulos Apache e MySQL.
 
 2.Localização da Pasta:
